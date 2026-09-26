@@ -27,4 +27,3 @@ jobs:
       
       - name: Run Playwright Tests
         run: npx playwright test
-        uses: actions/upload-artifact@v4
